@@ -1,7 +1,7 @@
 
 # Django Restframework Authentication REST API.
 
-This repository is the of Assignment.
+This repository is the part of Celetel Assignment.
 
 REST api for the User Sign up, Login, update password, forgot
 password, forgot, reset password, Email Validation with custom user model.
